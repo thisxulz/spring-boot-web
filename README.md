@@ -1,5 +1,7 @@
 # spring-boot-web
-整合spring-boot，mybatis，Swagger等，迅速开发一个网站应用，或者API微服务
+该项目整合spring-boot，mybatis-generator，Swagger等，迅速开发一个网站应用，或者API微服务
+
+一个好的web框架，能够很大程度上节省人力，提高开发效率，该项目自动生成持久层和接口文档，整合日志，环境配置等，可做到到手即用
 
 
 多快能开发一个网站应用？
